@@ -1,4 +1,4 @@
-# My-GPT — IBM local chatbot exercise
+# My-GPT — Local AI Chatbot (IBM Coursework Extension)
 
 IBM Building Generative AI-Powered Applications with Python, Module 2, with focused reliability fixes. This is a learning project, not a production assistant.
 
