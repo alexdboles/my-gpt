@@ -6,3 +6,5 @@
 - Responses are plain text with no-sniff and no-store headers; chat rendering uses text nodes.
 
 A single successful response is a runtime smoke test, not a model-quality evaluation. CPU speed and package availability vary across platforms. The app remains a local educational demonstration, not a public production service.
+
+Both standalone terminal entry points also generated real replies and exited cleanly: BlenderBot and SmolLM2-360M-Instruct. All 7 unit tests passed locally and in GitHub Actions.
